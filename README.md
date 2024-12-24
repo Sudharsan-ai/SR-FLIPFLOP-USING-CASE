@@ -67,16 +67,16 @@ endmodule
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: SUDHARSAN S RegisterNumber: 24900437
 
-**RTL LOGIC FOR FLIPFLOPS**
+**RTL**
 
 ![SR-F](https://github.com/user-attachments/assets/fef6ec0c-e82f-4828-8989-818bc46e924e)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAM**
 
 
 ![SR-TIMINGDIAGRAM](https://github.com/user-attachments/assets/8466d86d-90d5-437f-86b8-2cbdab2efeb6)
 
-**RESULTS**
+**RESULT**
 
 SR flipflop using verilog and validating their functionality using their functional tables is verified
